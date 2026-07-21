@@ -11,7 +11,6 @@ The project combines water heritage, field research, artificial intelligence, di
 ---
 
 ## Explore the Project
-## Explore the Project
 
 - **[Comprehensive Project Overview](PROJECT_OVERVIEW.md)**  
   Read the project's vision, challenge, innovation, objectives, workstreams, expected outputs, and anticipated impact.
