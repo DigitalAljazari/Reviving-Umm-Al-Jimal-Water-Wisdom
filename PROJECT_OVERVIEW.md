@@ -74,7 +74,7 @@ Develop AI-assisted models and digital simulations that can examine rainfall sce
 
 Translate the historic principles into a modern, safe, and maintainable water-harvesting sequence:
 
-**Runoff channels -> protected sedimentation basin -> covered main cistern or tank -> drip irrigation network -> recharge and infiltration garden**
+Runoff channels -> protected sedimentation basin -> covered main cistern or tank -> drip irrigation network -> recharge and infiltration garden
 
 The design avoids large, deep, uncovered ponds. It prioritizes covered storage, limited exposed water surfaces, sediment control, safe access, efficient drip irrigation, and protection for people and animals. Where appropriate, shade structures or solar panels may further reduce heat exposure and evaporation.
 
@@ -94,9 +94,9 @@ Deir Al-Kahf in Jordan's Northern Badia has been identified as the first propose
 
 Field visits and preliminary site documentation have begun. The pilot is currently in the assessment and design stage. Before construction, the project will require detailed topographic, hydrological, soil, ecological, engineering, safety, and community assessments.
 
-The proposed pilot will test how the principles learned from Umm Al-Jimal can be adapted to a living contemporary landscape without compromising archaeological integrity or presenting an unverified design as a finished solution.
-Field assessment at the proposed Deir Al-Kahf pilot site images/deir-al-kahf-site-assessment.jpg
-Preliminary field assessment of the proposed pilot landscape at Deir Al-Kahf in Jordan’s Northern Badia.
+![Field assessment at the proposed Deir Al-Kahf pilot site](images/deir-al-kahf-site-assessment.jpg.jpeg)
+
+*Preliminary field assessment of the proposed pilot landscape at Deir Al-Kahf in Jordan’s Northern Badia.*
 ---
 
 ## Project Objectives
@@ -111,6 +111,9 @@ Preliminary field assessment of the proposed pilot landscape at Deir Al-Kahf in 
 - Document local and women's knowledge related to water, plants, land, and household resilience.
 - Strengthen dialogue around water as a shared resource and a foundation for peace.
 - Produce an adaptable model for other arid communities in Jordan, the Middle East, and comparable drylands worldwide.
+  ![Field measurement at Deir Al-Kahf](images/deir-al-kahf-field-measurement.jpg.jpeg)
+
+*Early field measurement and site documentation supporting the pilot-design process.*
 
 ---
 
@@ -203,15 +206,15 @@ Preliminary field assessment of the proposed pilot landscape at Deir Al-Kahf in 
 
 The project follows several essential principles:
 
-- **Evidence before construction:** field observations are followed by technical verification.
-- **Safety by design:** no large, deep, unprotected bodies of water.
-- **Low evaporation:** preference for covered cisterns or tanks and minimal exposed surfaces.
-- **Ecological suitability:** planting decisions must respect native ecosystems and available water.
-- **Heritage respect:** archaeological sites are studied and interpreted, not altered without proper authority.
-- **Community participation:** local people are partners in knowledge, design, monitoring, and learning.
-- **Transparent claims:** proposed, tested, and completed activities are clearly distinguished.
-- **Open learning:** non-sensitive knowledge and tools should be shared whenever possible.
-- **Adaptation, not duplication:** each replication must respond to its own terrain, climate, culture, and water conditions.
+- Evidence before construction: field observations are followed by technical verification.
+- Safety by design: no large, deep, unprotected bodies of water.
+- Low evaporation: preference for covered cisterns or tanks and minimal exposed surfaces.
+- Ecological suitability: planting decisions must respect native ecosystems and available water.
+- Heritage respect: archaeological sites are studied and interpreted, not altered without proper authority.
+- Community participation: local people are partners in knowledge, design, monitoring, and learning.
+- Transparent claims: proposed, tested, and completed activities are clearly distinguished.
+- Open learning: non-sensitive knowledge and tools should be shared whenever possible.
+- Adaptation, not duplication: each replication must respond to its own terrain, climate, culture, and water conditions.
 
 ---
 
