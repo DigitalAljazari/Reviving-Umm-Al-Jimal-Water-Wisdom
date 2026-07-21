@@ -8,11 +8,9 @@
 
 **Reviving Umm Al-Jimal's Water Wisdom** is an interdisciplinary research and innovation project that transforms the historic rainwater-harvesting intelligence of Umm Al-Jimal, Jordan, into a contemporary model for water security, climate resilience, ecosystem recovery, education, and peacebuilding in arid and water-stressed regions.
 
-**Reviving Umm Al-Jimal's Water Wisdom** is an interdisciplinary research and innovation project that transforms the historic rainwater-harvesting intelligence of Umm Al-Jimal, Jordan, into a contemporary model for water security, climate resilience, ecosystem recovery, education, and peacebuilding in arid and water-stressed regions.
-
 The project begins from a simple but powerful idea: communities that lived for centuries in dry basalt landscapes developed practical systems for collecting, slowing, filtering, storing, and distributing scarce rainfall. This knowledge should not remain only as archaeological memory. It can be studied, digitally reconstructed, scientifically evaluated, and responsibly adapted to help address present and future water challenges.
 
-The initiative combines heritage research, field observation, hydrological thinking, artificial intelligence, digital simulation, community participation, and safe low-cost water infrastructure. Its first replication pathway is being developed for Jordan's Northern Badia, with a pilot site at Deir Al-Kahf.
+The initiative combines heritage research, field observation, hydrological thinking, artificial intelligence, digital simulation, community participation, and safe, low-cost water infrastructure. Its first replication pathway is being developed for Jordan's Northern Badia, with a proposed pilot site at Deir Al-Kahf.
 
 ---
 
@@ -37,7 +35,7 @@ Many current responses treat these problems independently. This project addresse
 
 Umm Al-Jimal lies within Jordan's basalt desert, where communities historically survived under severe water constraints. The site preserves evidence of an integrated water culture that used stone-built channels, collection surfaces, sediment control, reservoirs, cisterns, gravity, overflow pathways, and careful storage practices.
 
-The importance of Umm Al-Jimal is not limited to the individual structures. Its deeper value lies in the logic connecting them:
+The importance of Umm Al-Jimal is not limited to individual structures. Its deeper value lies in the logic connecting them:
 
 1. Observe where rain falls and how runoff moves.
 2. Guide water through suitable channels.
@@ -60,7 +58,7 @@ Rather than copying archaeological structures literally, the project studies the
 
 ## Core Innovation
 
-The project's innovation is the creation of a bridge between five fields that are often separated:
+The project's innovation is the creation of a bridge between five fields that are often separated.
 
 ### 1. Water Heritage
 
@@ -74,7 +72,7 @@ Develop AI-assisted models and digital simulations that can examine rainfall sce
 
 Translate the historic principles into a modern, safe, and maintainable water-harvesting sequence:
 
-Runoff channels -> protected sedimentation basin -> covered main cistern or tank -> drip irrigation network -> recharge and infiltration garden
+**Runoff channels → protected sedimentation basin → covered main cistern or tank → drip irrigation network → recharge and infiltration garden**
 
 The design avoids large, deep, uncovered ponds. It prioritizes covered storage, limited exposed water surfaces, sediment control, safe access, efficient drip irrigation, and protection for people and animals. Where appropriate, shade structures or solar panels may further reduce heat exposure and evaporation.
 
@@ -96,7 +94,10 @@ Field visits and preliminary site documentation have begun. The pilot is current
 
 ![Field assessment at the proposed Deir Al-Kahf pilot site](images/deir-al-kahf-site-assessment.jpg.jpeg)
 
-*Preliminary field assessment of the proposed pilot landscape at Deir Al-Kahf in Jordan’s Northern Badia.*
+*Preliminary field assessment of the proposed pilot landscape at Deir Al-Kahf in Jordan's Northern Badia.*
+
+The proposed pilot will test how the principles learned from Umm Al-Jimal can be adapted to a living contemporary landscape without compromising archaeological integrity or presenting an unverified design as a finished solution.
+
 ---
 
 ## Project Objectives
@@ -111,9 +112,6 @@ Field visits and preliminary site documentation have begun. The pilot is current
 - Document local and women's knowledge related to water, plants, land, and household resilience.
 - Strengthen dialogue around water as a shared resource and a foundation for peace.
 - Produce an adaptable model for other arid communities in Jordan, the Middle East, and comparable drylands worldwide.
-  ![Field measurement at Deir Al-Kahf](images/deir-al-kahf-field-measurement.jpg.jpeg)
-
-*Early field measurement and site documentation supporting the pilot-design process.*
 
 ---
 
@@ -204,17 +202,15 @@ Field visits and preliminary site documentation have begun. The pilot is current
 
 ## Responsible Development Principles
 
-The project follows several essential principles:
-
-- Evidence before construction: field observations are followed by technical verification.
-- Safety by design: no large, deep, unprotected bodies of water.
-- Low evaporation: preference for covered cisterns or tanks and minimal exposed surfaces.
-- Ecological suitability: planting decisions must respect native ecosystems and available water.
-- Heritage respect: archaeological sites are studied and interpreted, not altered without proper authority.
-- Community participation: local people are partners in knowledge, design, monitoring, and learning.
-- Transparent claims: proposed, tested, and completed activities are clearly distinguished.
-- Open learning: non-sensitive knowledge and tools should be shared whenever possible.
-- Adaptation, not duplication: each replication must respond to its own terrain, climate, culture, and water conditions.
+- Evidence before construction: Field observations are followed by technical verification.
+- Safety by design: No large, deep, unprotected bodies of water.
+- Low evaporation: Preference for covered cisterns or tanks and minimal exposed surfaces.
+- Ecological suitability: Planting decisions must respect native ecosystems and available water.
+- Heritage respect: Archaeological sites are studied and interpreted, not altered without proper authority.
+- Community participation: Local people are partners in knowledge, design, monitoring, and learning.
+- Transparent claims: Proposed, tested, and completed activities are clearly distinguished.
+- Open learning: Non-sensitive knowledge and tools should be shared whenever possible.
+- Adaptation, not duplication: Each replication must respond to its own terrain, climate, culture, and water conditions.
 
 ---
 
@@ -230,9 +226,11 @@ The project is under active development. Completed and ongoing activities includ
 - Preparation of research, partnership, funding, education, and replication pathways.
 
 The next stage will focus on multidisciplinary technical studies, digital modelling, community consultation, detailed pilot design, resource mobilization, implementation approvals, and monitored testing.
-Field measurement at Deir Al-Kahf
-images/deir-al-kahf-field-measurement.jpg
-Early field measurement and site documentation supporting the pilot-design process.
+
+![Field measurement at Deir Al-Kahf](images/deir-al-kahf-field-measurement.jpg.jpeg)
+
+*Early field measurement and site documentation supporting the pilot-design process.*
+
 ---
 
 ## Collaboration
@@ -262,7 +260,7 @@ For planned repository contribution procedures, see `CONTRIBUTING.md` when avail
 
 ## Public Resources
 
-- Project field documentation: Watch the video (https://youtu.be/v_kogc92Bmo)
+- Project field documentation: [Watch the video](https://youtu.be/v_kogc92Bmo)
 - AI-assisted explanatory video: [Watch the video](https://youtu.be/fS3pJLn690Y)
 - Project website: [digitalaljazari.org](https://digitalaljazari.org)
 
@@ -271,8 +269,6 @@ Additional maps, images, field notes, technical documents, and educational resou
 ---
 
 ## Related Sustainable Development Goals
-
-The project contributes particularly to:
 
 - SDG 6: Clean Water and Sanitation
 - SDG 11: Sustainable Cities and Communities
