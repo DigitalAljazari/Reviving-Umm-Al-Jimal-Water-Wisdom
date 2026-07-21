@@ -1,9 +1,12 @@
 # Reviving Umm Al-Jimal's Water Wisdom
 
-## Heritage-Inspired Water Innovation for Arid Regions  Field research at Umm Al-Jimal images/umm-al-jimal-field-research.jpg.jpeg
-Field research and documentation exploring the water wisdom of Umm Al-Jimal.*
+## Heritage-Inspired Water Innovation for Arid Regions
+
+![Field research at Umm Al-Jimal](images/umm-al-jimal-field-research.jpg.jpeg)
 
 *Field research and documentation exploring the water wisdom of Umm Al-Jimal.*
+
+**Reviving Umm Al-Jimal's Water Wisdom** is an interdisciplinary research and innovation project that transforms the historic rainwater-harvesting intelligence of Umm Al-Jimal, Jordan, into a contemporary model for water security, climate resilience, ecosystem recovery, education, and peacebuilding in arid and water-stressed regions.
 
 **Reviving Umm Al-Jimal's Water Wisdom** is an interdisciplinary research and innovation project that transforms the historic rainwater-harvesting intelligence of Umm Al-Jimal, Jordan, into a contemporary model for water security, climate resilience, ecosystem recovery, education, and peacebuilding in arid and water-stressed regions.
 
