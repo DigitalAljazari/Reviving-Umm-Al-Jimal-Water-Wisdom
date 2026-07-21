@@ -11,6 +11,7 @@ The project combines water heritage, field research, artificial intelligence, di
 ---
 
 ## Explore the Project
+## Explore the Project
 
 - **[Comprehensive Project Overview](PROJECT_OVERVIEW.md)**  
   Read the project's vision, challenge, innovation, objectives, workstreams, expected outputs, and anticipated impact.
@@ -18,8 +19,19 @@ The project combines water heritage, field research, artificial intelligence, di
 - **[Fieldwork and Site Documentation](FIELDWORK.md)**  
   Explore the preliminary field research conducted at Umm Al-Jimal and the proposed Deir Al-Kahf pilot landscape.
 
+- **[Project Roadmap](ROADMAP.md)**  
+  Follow the project from heritage research and field documentation to technical validation, pilot implementation, monitoring, and responsible replication.
+
+- **[Contributing Guidelines](CONTRIBUTING.md)**  
+  Learn how researchers, experts, communities, and institutions can contribute responsibly.
+
+- **[Repository Use and Licensing Notice](LICENSE.md)**  
+  Review the permissions, restrictions, attribution requirements, and protections applying to repository materials.
+
 - **[Project Images](images/README.md)**  
   View information about the repository's field and visual documentation.
+
+---
 
 ---
 
@@ -174,7 +186,7 @@ This repository documents a developing research and innovation initiative. Conce
 
 Physical implementation requires site-specific studies, qualified engineering review, legal approvals, environmental and social safeguards, safety measures, and community consultation.
 
-Copyright and licensing provisions for the repository's research, images, documentation, and future software components are being prepared.
+Use of the repository's research, images, documentation, and future software components is governed by the [Repository Use and Licensing Notice](LICENSE.md).
 
 ---
 
