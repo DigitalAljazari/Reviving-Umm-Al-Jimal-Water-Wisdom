@@ -1,6 +1,9 @@
 # Reviving Umm Al-Jimal's Water Wisdom
 
-## Heritage-Inspired Water Innovation for Arid Regions
+## Heritage-Inspired Water Innovation for Arid Regions  Field research at Umm Al-Jimal images/umm-al-jimal-field-research.jpg.jpeg
+Field research and documentation exploring the water wisdom of Umm Al-Jimal.*
+
+*Field research and documentation exploring the water wisdom of Umm Al-Jimal.*
 
 **Reviving Umm Al-Jimal's Water Wisdom** is an interdisciplinary research and innovation project that transforms the historic rainwater-harvesting intelligence of Umm Al-Jimal, Jordan, into a contemporary model for water security, climate resilience, ecosystem recovery, education, and peacebuilding in arid and water-stressed regions.
 
@@ -89,7 +92,8 @@ Deir Al-Kahf in Jordan's Northern Badia has been identified as the first propose
 Field visits and preliminary site documentation have begun. The pilot is currently in the assessment and design stage. Before construction, the project will require detailed topographic, hydrological, soil, ecological, engineering, safety, and community assessments.
 
 The proposed pilot will test how the principles learned from Umm Al-Jimal can be adapted to a living contemporary landscape without compromising archaeological integrity or presenting an unverified design as a finished solution.
-
+Field assessment at the proposed Deir Al-Kahf pilot site images/deir-al-kahf-site-assessment.jpg
+Preliminary field assessment of the proposed pilot landscape at Deir Al-Kahf in Jordan’s Northern Badia.
 ---
 
 ## Project Objectives
@@ -220,7 +224,9 @@ The project is under active development. Completed and ongoing activities includ
 - Preparation of research, partnership, funding, education, and replication pathways.
 
 The next stage will focus on multidisciplinary technical studies, digital modelling, community consultation, detailed pilot design, resource mobilization, implementation approvals, and monitored testing.
-
+Field measurement at Deir Al-Kahf
+images/deir-al-kahf-field-measurement.jpg
+Early field measurement and site documentation supporting the pilot-design process.
 ---
 
 ## Collaboration
@@ -250,9 +256,9 @@ For planned repository contribution procedures, see `CONTRIBUTING.md` when avail
 
 ## Public Resources
 
-- **Project field documentation:** [Watch the video](https://youtu.be/v_kogc92Bmo)
-- **AI-assisted explanatory video:** [Watch the video](https://youtu.be/fS3pJLn690Y)
-- **Project website:** [digitalaljazari.org](https://digitalaljazari.org)
+- Project field documentation: Watch the video (https://youtu.be/v_kogc92Bmo)
+- AI-assisted explanatory video: [Watch the video](https://youtu.be/fS3pJLn690Y)
+- Project website: [digitalaljazari.org](https://digitalaljazari.org)
 
 Additional maps, images, field notes, technical documents, and educational resources will be added progressively to this repository.
 
@@ -262,12 +268,12 @@ Additional maps, images, field notes, technical documents, and educational resou
 
 The project contributes particularly to:
 
-- **SDG 6:** Clean Water and Sanitation
-- **SDG 11:** Sustainable Cities and Communities
-- **SDG 13:** Climate Action
-- **SDG 15:** Life on Land
-- **SDG 16:** Peace, Justice and Strong Institutions
-- **SDG 17:** Partnerships for the Goals
+- SDG 6: Clean Water and Sanitation
+- SDG 11: Sustainable Cities and Communities
+- SDG 13: Climate Action
+- SDG 15: Life on Land
+- SDG 16: Peace, Justice and Strong Institutions
+- SDG 17: Partnerships for the Goals
 
 ---
 
@@ -281,8 +287,8 @@ This repository documents a developing research and innovation initiative. Conce
 
 For research collaboration, technical partnership, responsible funding, or knowledge exchange:
 
-**Email:** contact@digitalaljazari.org  
-**Website:** https://digitalaljazari.org
+Email: contact@digitalaljazari.org  
+Website: https://digitalaljazari.org
 
 ---
 
