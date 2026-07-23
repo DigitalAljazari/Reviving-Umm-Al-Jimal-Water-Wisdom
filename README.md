@@ -33,6 +33,8 @@ The project combines water heritage, field research, artificial intelligence, di
   Review the public summary of land availability, agricultural suitability, documentary evidence, and confidential verification procedures.
  - [Selected References](SELECTED_REFERENCES.md)  
   Explore selected academic, institutional, heritage, and project-produced resources informing the project's research and development.
+- [Media Coverage and Field Visit Documentation](MEDIA_COVERAGE.md) 
+  Explore selected media coverage of the project's exploratory field documentation and its practical preparatory visits to Umm Al-Jimal and Deir Al-Kahf.
 ---
 
 
