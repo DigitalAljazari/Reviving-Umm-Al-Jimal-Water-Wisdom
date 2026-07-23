@@ -12,28 +12,29 @@ The project combines water heritage, field research, artificial intelligence, di
 
 ## Explore the Project
 
-- **[Comprehensive Project Overview](PROJECT_OVERVIEW.md)**  
+- [Comprehensive Project Overview](PROJECT_OVERVIEW.md) 
   Read the project's vision, challenge, innovation, objectives, workstreams, expected outputs, and anticipated impact.
 
-- **[Fieldwork and Site Documentation](FIELDWORK.md)**  
+- [Fieldwork and Site Documentation](FIELDWORK.md)  
   Explore the preliminary field research conducted at Umm Al-Jimal and the proposed Deir Al-Kahf pilot landscape.
 
-- **[Project Roadmap](ROADMAP.md)**  
+- [Project Roadmap](ROADMAP.md) 
   Follow the project from heritage research and field documentation to technical validation, pilot implementation, monitoring, and responsible replication.
 
-- **[Contributing Guidelines](CONTRIBUTING.md)**  
+- [Contributing Guidelines](CONTRIBUTING.md)  
   Learn how researchers, experts, communities, and institutions can contribute responsibly.
 
-- **[Repository Use and Licensing Notice](LICENSE.md)**  
+- [Repository Use and Licensing Notice](LICENSE.md)  
   Review the permissions, restrictions, attribution requirements, and protections applying to repository materials.
 
-- **[Project Images](images/README.md)**  
+- [Project Images](images/README.md)  
   View information about the repository's field and visual documentation.
-- **[Deir Al-Kahf Site Evidence](SITE_EVIDENCE.md)**  
+- [Deir Al-Kahf Site Evidence](SITE_EVIDENCE.md)  
   Review the public summary of land availability, agricultural suitability, documentary evidence, and confidential verification procedures.
+ - [Selected References](SELECTED_REFERENCES.md)  
+  Explore selected academic, institutional, heritage, and project-produced resources informing the project's research and development.
 ---
 
----
 
 ## The Central Idea
 
